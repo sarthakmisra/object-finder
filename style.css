@@ -1,0 +1,19 @@
+body {
+    background-size: cover;
+}
+h1 {
+    background-color: aqua;
+    border-radius: 30px;
+    border-color: white;
+    font-family: monospace;
+    width: 700px;
+}
+#intro {
+color: yellow;
+font-size: 20px;
+font-family: monospace;
+}
+#object_name {
+    width:500px;
+    border-radius: 5px;
+}
